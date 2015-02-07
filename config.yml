@@ -1,0 +1,6 @@
+joinmsg:
+  enabled: true
+quitmsg:
+  enabled: true
+deathmsg:
+  enabled: true
